@@ -2,7 +2,7 @@
 
 Melisandre is a futuristic UI for the lovely virtual assistant [Melissa](https://github.com/Melissa-AI/Melissa-Core/). Melisandre uses Google Chrome's speech-to-text engine (works only with Chrome). This project is currently under development and has Melissa as a dependancy.
 
-Check out our [wiki](https://github.com/Melissa-AI/Melissa-Core/wiki), where we have installation and configuration instructions for Melissa, usage guide as well as relevant documentation.
+Check out our [wiki](https://github.com/Melissa-AI/Melissa-Core/wiki), where we have installation and configuration instructions for Melissa, usage guide as well as relevant documentation. Credits to [Nakul Saxena](http://nakulsaxena.in) for designing and developing this awesome interface.
 
 ### Installation of Melisandre
 
